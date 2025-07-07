@@ -4,47 +4,49 @@ Welcome to my 🔧 **C Programming** repo – where I’m learning, building, an
 
 ---
 
-## ✅ Completed Sections
+C-Language/
+├── Basics/             # Print, input-output, operators  
+├── Patterns/           # Star, number, and shape patterns  
+├── Conditionals/       # if-else, switch case, logic problems  
+├── Loops/              # for, while, nested loop programs  
+├── Functions/          # Function-based programs  
+├── Projects/           # Mini projects like calculator etc.  
+└── Others/             # Miscellaneous & extra logic programs
 
-### 📁 `Patterns/` – [✅ 100% Complete]
-- `01_diamond_pattern.c`
-- `02_right_triangle.c`
-- `03_hollow_triangle.c`
-- `04_inverted_triangle.c`
-- `05_square_pattern.c`
-- ...and more!
+## 🚀 What You’ll Find Here
 
-📌 **Status**: ALL Pattern Programs are DONE 💯
+- ✅ Beginner-friendly C programs  
+- ✅ Pattern programs to strengthen logic  
+- ✅ Practice for 1st-year Engineering  
+- ✅ Clean, commented code for learning  
+- ✅ GitHub commit streak consistency
+
+
+## 🛠️ How to Use
+
+1. Clone the repo:
+   git clone https://github.com/navingulhane/C-Language
+
+2. Navigate into any folder
+
+3. Compile & run any `.c` file using:
+   gcc filename.c -o output  
+   ./output
+
+## 📅 Progress Highlights
+
+- ✅ 50+ C programs committed  
+- ✅ GitHub streak maintained  
+- ✅ Logic improved daily  
+- ✅ Public accountability on GitHub
+
+## 🌟 Let’s Connect
+
+- GitHub: [@navingulhane](https://github.com/navingulhane)  
+- Twitter/X: Coming soon 👀  
+- Goal: Inspire others to **start early, stay consistent, and win big** 💯
 
 ---
 
-## 🔜 Upcoming Sections
-
-- 📁 `Arrays/`
-- 📁 `Strings/`
-- 📁 `Functions/`
-- 📁 `Exam_Practice/`
-- 📁 `Projects/`
-
-🕒 Stay tuned... more 🔥 content dropping soon 😎
-
----
-
-## 🚀 How to Use
-
-Explore the folders, run programs in CodeBlocks / Any Online C compilers ^_^
-
----
-
-## 🤝 Let’s Connect
-
-Made with energy, discipline and green tea ☕💪  
-If this repo helps you — leave a 🌟 star, or just vibe with me:  
-👉 [My GitHub](https://github.com/navingulhane)
-
----
-
-# Keep Grinding 🚀 | Keep Coding 👨‍💻 | Stay Ahead 😎
-Stay tuned ; )
-Heeglya-Heeglya 🐊
-
+**Drop a ⭐ if this helped or inspired you!**  
+Let’s grow together — code by code, day by day 💚🐼
