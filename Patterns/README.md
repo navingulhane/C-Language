@@ -1,6 +1,6 @@
 # ⭐ C Pattern Programs in C Language
 
-Welcome to the **Patterns** section of my C Language journey!  
+Welcome to the **Patterns** section of my C Language journey!  design pattern added!! ^_^
 This folder contains various **pattern printing programs** written in C, which help build strong logical thinking and mastering loops.
 
 ---
