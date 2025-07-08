@@ -43,7 +43,6 @@ C-Language/
 ## 🌟 Let’s Connect
 
 - GitHub: [@navingulhane](https://github.com/navingulhane)  
-- Twitter/X: Coming soon 👀  
 - Goal: Inspire others to **start early, stay consistent, and win big** 💯
 
 ---
