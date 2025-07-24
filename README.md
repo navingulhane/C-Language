@@ -1,6 +1,6 @@
 # 🔥 C Language Programs – By Navin Gulhane
 
-Welcome to my 🔧 **C Programming** repo – where I’m learning, building, and leveling up every day ^__^💪🔥
+Welcome to my 🔧 **C Programming** repo – where I’m learning, building, and leveling up every day ^_^💪🔥
 
 ---
 
