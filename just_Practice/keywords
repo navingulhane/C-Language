@@ -8,3 +8,5 @@ do
 for
 switch
 case
+float
+return
