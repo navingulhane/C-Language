@@ -8,6 +8,3 @@ sum = a + b + c;
 printf("the sum is : %d\n",sum);
 return 0;
 }
-.
-.
-.
