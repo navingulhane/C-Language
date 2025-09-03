@@ -1,4 +1,4 @@
- // HOLLOW TRIANGLE [^__^]
+ // .HOLLOW TRIANGLE [^__^]
     #include <stdio.h>
     int main ()  {
     int i , j , n;
