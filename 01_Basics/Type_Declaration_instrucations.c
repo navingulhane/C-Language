@@ -1,1 +1,1 @@
-before using it declaration is must ^_^
+Before using it declaration is must ^_^
