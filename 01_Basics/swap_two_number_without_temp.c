@@ -5,7 +5,7 @@
   printf("Enter two numbers :\n");
   scanf("%d %d" , &a , &b);
     
- // Swapping without a temp
+ // Swapping without a temp....
  
   a = a + b;
   b = a - b;
