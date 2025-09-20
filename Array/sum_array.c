@@ -8,7 +8,7 @@
  for(i = 0; i < 5; i++) {
  scanf("%d", & arr [i]);
  sum = sum + arr [i];             
-// imp stuff [ ^ 0 ^ ]
+// imp stuff [ ^ 0 ^ ]...
  }
  printf("Sum of the number is :%d\n", sum); 
 //Print total sum..
