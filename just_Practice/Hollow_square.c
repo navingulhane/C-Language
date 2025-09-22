@@ -1,4 +1,5 @@
-    #include <stdio.h>
+//code for hollow sphere
+#include <stdio.h>
     int main () {
         
         int i, j, n;
