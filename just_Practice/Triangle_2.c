@@ -1,3 +1,4 @@
+////code for triangle 2
 #include <stdio.h>
 int main () {
     int i, j;
