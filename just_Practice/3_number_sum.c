@@ -1,3 +1,4 @@
+// code for sum of 3 numbers 
 #include<stdio.h>
 int main () {
 int a,b,c,sum;
