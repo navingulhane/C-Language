@@ -12,4 +12,4 @@
 - ✅ **Armstrong Number**
 - ✅ **Count Digits / Sum of Digits**
 
-> These programs are great for building core programming skills, understanding loops, conditions, and number logic ^_^
+> These programs are great for building core programming skills, understanding loops, conditions, and number logic ^_^.
