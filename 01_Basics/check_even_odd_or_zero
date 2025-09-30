@@ -1,4 +1,4 @@
-  //Check if the number is Even,Odd or zero...
+  //Check if the number is Even,Odd or zero.
     
     #include<stdio.h>
     int main ( ){
