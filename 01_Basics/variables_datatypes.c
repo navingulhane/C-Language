@@ -1,4 +1,4 @@
-// variables_datatypes.c
+// variables_datatypes.ccc
 #include <stdio.h>
 int main ( ) {
     int age = 18 ;
