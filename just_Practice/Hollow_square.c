@@ -1,4 +1,4 @@
-//code for hollow sphere
+//code for hollow sphere..
 #include <stdio.h>
     int main () {
         
