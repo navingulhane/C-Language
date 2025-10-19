@@ -1,4 +1,4 @@
-// Hollow Square ka codeeee [^_^],,
+// Hollow Square ka codeee [^_^],,
   #include <stdio.h>
 
   int main() {
