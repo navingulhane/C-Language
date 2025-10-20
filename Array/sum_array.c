@@ -1,7 +1,7 @@
  #include<stdio.h>
  int main () {
  int arr[5] ;                     
-//Array hold 5 numbers :)
+//Array hold 5 numbers
  int i = 0, sum = 0; 
 
  printf("Entre 5 numbers:\n");
