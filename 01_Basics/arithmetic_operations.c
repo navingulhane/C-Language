@@ -1,4 +1,4 @@
- // doing arithmetic operations with two numbers 
+ // doing arithmetic operations with two numbers. 
 
      #include <stdio.h>
      int main ( )  {
