@@ -1,4 +1,4 @@
-  //  .parallelogram     ka       code   ^_^
+  //  arallelogram     ka       code   ^_^
   #include <stdio.h>
 
   int main() {
