@@ -1,4 +1,4 @@
- // DIAMOND KA CCOOODEE [^___^]
+ // DIAMOND KA CCOODEE [^___^]
         #include <stdio.h>
         
         int main() {
