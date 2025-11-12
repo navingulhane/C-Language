@@ -1,4 +1,4 @@
- // DIAMOND KA CODE ^___^
+ // DIAMOND KA CODE ^_^
         #include <stdio.h>
         
         int main() {
