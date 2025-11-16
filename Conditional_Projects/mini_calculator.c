@@ -1,5 +1,5 @@
   // Mini Calculator using Switch Case \_(^0^)_/      
-     #include <stdio.h>              //   |   |
+     #include <stdio.h>              //  |   |
     int main() {                   //    /---\
     char operator;                //    /     \
     float num1 ,num2 ;
