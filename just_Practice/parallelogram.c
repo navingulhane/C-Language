@@ -1,4 +1,4 @@
-  //  parallelogram ka   ode ^_^
+  //  parallelogram kaode ^_^
   #include <stdio.h>
 
   int main() {
