@@ -2,7 +2,7 @@
 # 📚 C Language Programs — Chapter-wise
 
 Welcome to the **Chapter-wise C Programs** folder!  
-This section contains all the essential  programs organized by textbook chapters or syllabus topics. It's perfect for **beginners, college students, or anyone revising fundamentals**.
+This section contains all the essential  programs C organized by textbook chapters or syllabus topics. It's perfect for **beginners, college students, or anyone revising fundamentals**.
 
 ---
 
