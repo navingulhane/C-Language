@@ -1,4 +1,4 @@
-  // Mini Calculator using Swit.ch Case \_(^0^)_/      
+  // Mini Calculator using Switch Case \_(^0^)_/      
      #include <stdio.h>              //  |   |
     int main() {                   //    /---\
     char operator;                //    /     \
