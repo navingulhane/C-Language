@@ -1,4 +1,4 @@
-.Lines which are not a part of code are know-as ' Comments '
+Lines which are not a part of code are know as ' Comments '
 
 There are 2 types in comments 
 
