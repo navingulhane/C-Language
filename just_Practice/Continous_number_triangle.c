@@ -1,4 +1,4 @@
-//code for conti. num triangle
+//code for conti. num triangle.
 #include <stdio.h>
 int main (){
    
