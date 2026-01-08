@@ -1,4 +1,4 @@
-..Control Statements
+Control Statements
         |
         |-------------------------------|
         |                               |
@@ -10,7 +10,7 @@
    ---------------------          --------------------
    |        |          |          |        |         |S
    |        |          |          |        |         |
-  if    if–else   else-if      for     while    do–while
+  if    if–else   else-if      for     while     do–while
    |
    |
   switch
