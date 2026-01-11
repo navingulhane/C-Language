@@ -1,4 +1,4 @@
-// Diagonal letter pattern for name "Navin" ^_^  hehehehe
+// Diagonal letter pattern for name "Navin" (^_^) hehehehe
 
 #include <stdio.h>
 #include <string.h>
