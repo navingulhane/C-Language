@@ -1,5 +1,5 @@
- // DIAMOND KA CODE ^_^
-        #include <stdio.h>
+ // DIAMOND
+    #include <stdio.h>
         
         int main() {
         int i, j, n;
