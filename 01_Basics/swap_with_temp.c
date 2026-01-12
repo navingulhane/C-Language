@@ -1,4 +1,4 @@
-// Swapping of two numbers ^___^..
+// Swapping of two numbers ^___^.
   
     #include <stdio.h>
 
