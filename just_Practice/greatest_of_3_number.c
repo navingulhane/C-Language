@@ -1,4 +1,4 @@
-// Check the greatest of 3 numbers...mm
+// Check the greatest of 3 number
 
 #include <stdio.h>
 
