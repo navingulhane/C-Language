@@ -1,4 +1,4 @@
-// CHECKS IF A NUMBER IS PRIME OR NOT....^_^
+// CHECKS IF A NUMBER IS PRIME OR NOT....
     #include <stdio.h>
 
     int main() {
