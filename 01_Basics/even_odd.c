@@ -1,4 +1,4 @@
-// EVEN / ODD (^0^)...
+// EVEN / ODD (^0^)
    #include <stdio.h>
 
    int main() {
