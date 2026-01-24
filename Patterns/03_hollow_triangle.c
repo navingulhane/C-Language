@@ -1,4 +1,4 @@
- //HOLLOW TRIANGLE [^_^]
+ //HOLLOW TRIANGLE
     #include <stdio.h>
     int main ()  {
     int i , j , n;
