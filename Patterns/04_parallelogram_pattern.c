@@ -1,4 +1,4 @@
-//parallelogram ka code.. ^_^
+//parallelogram ka code.. 
   #include <stdio.h>
 
   int main() {
