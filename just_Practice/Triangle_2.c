@@ -1,4 +1,6 @@
-////code for triangle 2..
+////code for triangle 222
+
+
 #include <stdio.h>
 int main () {
     int i, j;
