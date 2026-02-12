@@ -1,4 +1,5 @@
-//code for triangle..
+//code for triangle11
+..
 #include <stdio.h>
 int main () {
     int i, j;
