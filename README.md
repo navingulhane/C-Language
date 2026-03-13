@@ -48,6 +48,6 @@ C-Language/
 ---
 
 **Drop a ⭐ if this helped or inspired you!**  
-Let’s grow together — code by code, day by day......💚🐼
+Let’s grow together — code by code, day by day......💚🐼..
 
 closed × 
